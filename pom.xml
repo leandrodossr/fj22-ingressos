@@ -151,11 +151,5 @@
         </plugins>
     </build>
     
-    <developers>
-		<developer>
-			<name>Leandro dos Santos</name>
-			<email>leandrodossr@gmail.com</email>
-		</developer>
-	</developers>
-
+    
 </project>
