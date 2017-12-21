@@ -4,9 +4,12 @@ import java.util.List;
 
 import javax.persistence.EntityManager;
 
+import org.springframework.stereotype.Repository;
+
 import br.com.caelum.ingresso.model.Sala;
 import br.com.caelum.ingresso.model.Sessao;
 
+@Repository
 public class SessaoDao {
 
 	private EntityManager manager;
